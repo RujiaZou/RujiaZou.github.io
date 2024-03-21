@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am currently a Ph.D. Candidate in the Department of Electrical and Computer Engineering, George Washington University, under the supervision of Prof. Suresh Subramaniam in the LINC Lab. I received B.S. degree in Telecommunication Engineering at Xidian University, in 2017, and the M.S. degree in Electrical Engineering at George Washington University in 2019. 
+
 My research areas include Optical Network Management, Network Survivability Design, Reinforcement Learning, Deep Learning, UAV and Data Center. 
 
 **Contact Info**: rjzou@gwu.edu, rzou2024@gmail.com
