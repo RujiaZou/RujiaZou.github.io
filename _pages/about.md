@@ -11,7 +11,8 @@ Rujia Zou is a Ph.D. Candidate in the Department of Electrical and Computer Engi
 
 **Contact Info**: rjzou@gwu.edu, rzou2024@gmail.com
 
-**Research Areas and Interests:**
+Research Areas and Interests:
+=====
  - Optical Networks:
     - Network protection for small-scale network failures
     - Disaster management of backbone optical networks
