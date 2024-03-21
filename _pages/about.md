@@ -16,14 +16,14 @@ Research Areas and Interests:
  - Optical Networks:
     - Network protection for small-scale network failures
     - Disaster management of backbone optical networks
-    - Resource allocation with OFDM-Based Elastic Optical Network
+    - Resource allocation with OFDM-based elastic optical network
  - Machine Learning in Networking
     - Reinforcement learning design in network management
     - Transfer learning design for condition-changing networks
  - UAV System Design
     - System embedding and video offloading
     - Deep learning model for system decisions
-
+More info about my research project can be found in [the guide](https://rujiazou.github.io/talk/).
 
 
 
