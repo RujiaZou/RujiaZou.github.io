@@ -23,6 +23,7 @@ Research Areas and Interests:
  - UAV System Design
     - System embedding and video offloading
     - Deep learning model for system decisions
+  
 More info about my research project can be found in [the guide](https://rujiazou.github.io/talk/).
 
 
