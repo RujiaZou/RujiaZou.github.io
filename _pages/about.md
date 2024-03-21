@@ -13,7 +13,7 @@ Rujia Zou is a Ph.D. Candidate in the Department of Electrical and Computer Engi
 
 Research Areas and Interests:
 ======
-My research focuses on **Optical Networks**, **Machine Learning**, and **UAV System Design**. Some of my current/recent topics of interest are:
+My research focuses on **Optical Networks**, **Machine Learning**, and **UAV System Design**. Some of my current areas of interest are:
  - Optical Networks:
     - Network protection for small-scale network failures
     - Disaster management of backbone optical networks
