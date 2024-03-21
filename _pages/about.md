@@ -7,11 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Rujia Zou is a Ph.D. Candidate in the Department of Electrical and Computer Engineering, George Washington University, under the supervision of **Prof. Suresh Subramaniam** in the LINC Lab. He received B.S. degree in Telecommunication Engineering at Xidian University, in 2017, and the M.S. degree in Electrical Engineering at George Washington University in 2019. 
-
-His research areas include **Optical Network Management**, **Network Survivability Design**, **Reinforcement Learning**, **Deep Learning**, **UAV**, and **Data Center Network**. 
+Rujia Zou is a Ph.D. Candidate in the Department of Electrical and Computer Engineering, George Washington University, under the supervision of **Prof. Suresh Subramaniam** in the LINC Lab. He received B.S. degree in Telecommunication Engineering at Xidian University, in 2017, and the M.S. degree in Electrical Engineering at George Washington University in 2019. I finished my 6-month internship at CableLabs from Jan. to Jul. 2023.
 
 **Contact Info**: rjzou@gwu.edu, rzou2024@gmail.com
+
+Research Areas and Interests:
+======
+My research focuses on **Optical Networks**, **Machine Learning**, and **UAV System Design**. Some of my current/recent topics of interest are:
+ - Optical Networks:
+    - Network protection for small-scale network failures
+    - Disaster management of backbone optical networks
+    - Resource allocation with OFDM-Based Elastic Optical Network
+ - Machine Learning in Networking
+    - Reinforcement learning design in network management
+    - Transfer learning design for condition-changing networks
+ - UAV System Design
+    - System embedding and video offloading
+    - Deep learning model for system decisions
+
+
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
