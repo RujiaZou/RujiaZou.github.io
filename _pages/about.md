@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Rujia Zou is a Ph.D. Candidate in the Department of Electrical and Computer Engineering, George Washington University, under the supervision of **Prof. Suresh Subramaniam** in the LINC Lab. He did his **6-month internship** at **CableLabs** from Jan. to Jul. 2023. His research focuses on **Optical Networks**, **Machine Learning**, and **UAV System Design**. 
+Rujia Zou is a **final-year** Ph.D. Candidate in the Department of Electrical and Computer Engineering, George Washington University, under the supervision of **Prof. Suresh Subramaniam** in the LINC Lab. He did his **6-month internship** at **CableLabs** from Jan. to Jul. 2023. His research focuses on **Optical Networks**, **Machine Learning**, and **UAV System Design**. 
 
 **Contact Info**: rjzou@gwu.edu, rzou2024@gmail.com
 
