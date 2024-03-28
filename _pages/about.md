@@ -14,7 +14,7 @@ Rujia Zou is a **final-year** Ph.D. Candidate in the Department of Electrical an
 Research Experience and Interests:
 =====
  - Optical Networks:
-    - Passive optical network with ITU-T G987.3 (During the 6-month internship at [CableLabs](https://www.cablelabs.com/)) 
+    - Passive optical network with ITU-T G987.3 (6-month internship at [CableLabs](https://www.cablelabs.com/)) 
     - Survivability/reliability design for backbone optical networks
     - Resource allocation with OFDM-based elastic optical network
  - Machine Learning in Networking
