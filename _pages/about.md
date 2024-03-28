@@ -24,4 +24,4 @@ Research Experience and Interests:
     - System embedding and video offloading
     - Deep learning model for system decisions
   
-More info about my research projects can be found in [Projects](https://rujiazou.github.io/talk/).
+More info about my research projects can be found in [Projects](https://rujiazou.github.io/talks/).
