@@ -25,3 +25,9 @@ Research Experience:
     - Deep learning model for system decisions
   
 More info about my research projects can be found in [Projects](https://rujiazou.github.io/talks/).
+
+Skills:
+======
+* **Machine Learning**: TensorFlow, PyTorch, Keras, GYM, YOLO, OpenCV, CNN, RNN, GNN, Multi-Task Model    
+* **Network**: BGP, OSPF, IPv4, IPv6, TCP/IP, DWDM, TFDM, Coherent, PON, Software-defined networking
+* **Programming**: Python, C, C++, OPL, MATLAB
