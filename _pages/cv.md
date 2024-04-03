@@ -24,9 +24,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning:
+  * TensorFlow, PyTorch, Keras, GYM, YOLO, OpenCV, CNN, RNN, GNN, Multi-Task Model    
+* Network:
+  * BGP, OSPF, IPv4, IPv6, TCP/IP, DWDM, TFDM, Coherent, PON, Software-defined networking
+* Programming:
+  * Python, C, C++, OPL, MATLAB
+
