@@ -21,7 +21,7 @@ repository               : "https://github.com/RujiaZou?tab=repositories"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Rujia Zou.png"
   name             : "Rujia Zou"
   pronouns         : # example: "he/his"  
   bio              : "Ph.D. candidate at George Washington University, ML Researcher, Optical Network Researcher, System Programmer"
