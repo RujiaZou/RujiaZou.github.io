@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* Jan. to Jul. 2023: Optical Research Intern
-  * Cable Television Laboratories, Inc. 
+* Cable Television Laboratories, Jan. to Jul. 2023
+  * Title: Optical Research Intern
   * Duties include: Coherent passive optical network bandwidth allocation algorithm design and network simulation
   * Supervisor: Dr. Steve Jia
   
