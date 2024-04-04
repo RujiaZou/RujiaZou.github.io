@@ -8,7 +8,7 @@ author_profile: true
 - **Spring 2021 and Spring 2022: Teaching Assistant**
   - ECE 4425: Data Communications Lab
   - ECE 6035/4415: Introduction to Computer Networks
-- **Spring 2019: Teaching Assistant**
+- **Spring 2019: Graduate Course Grader**
   - ECE 6103: Big Data and Cloud Computing
   - ECE 6125: Parallel Computer Architecture
   - ECE 6160: Secure Computer Architecture
