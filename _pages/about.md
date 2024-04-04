@@ -11,7 +11,7 @@ redirect_from:
 
 **Contact Info**: [rzou2024@gmail.com](mailto:rzou2024@gmail.com), [rjzou@gwu.edu](mailto:rjzou@gwu.edu)
 
-**I'm on the job market now, open to Network Engineer, ML Engineer, and Research positions!**
+**I am actively seeking full-time opportunities starting in Aug. or Dec. 2024. I am open to Network Engineer, ML Engineer, and Research positions!**
 
 Research Experience:
 =====
