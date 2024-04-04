@@ -11,6 +11,8 @@ redirect_from:
 
 **Contact Info**: [rzou2024@gmail.com](mailto:rzou2024@gmail.com), [rjzou@gwu.edu](mailto:rjzou@gwu.edu)
 
+**I'm on the job market now! Open to Network Engineer, ML Engineer, and all Research positions!**
+
 Research Experience:
 =====
  - Optical Networks:
